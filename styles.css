@@ -1,0 +1,14 @@
+h1{
+    color: pink;
+    text-align: center;
+}
+.link{
+    background-color: gray;
+}
+table, th,td {
+    border: 1px solid;
+}
+#photo{
+    border: 4px solid;
+    border-color: pink;
+}
